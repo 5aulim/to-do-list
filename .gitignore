@@ -1,3 +1,4 @@
 /node_api/node_modules
 /todo-list/node_modules
 *.lock
+/node_api/.env
